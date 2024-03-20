@@ -1,6 +1,4 @@
-# RFM_OnlineRetail
-
-RFM model-based Customer Segmentation using Clustering and Classification
+# RFM model-based Customer Segmentation using Clustering and Classification
 
 ### Dataset
 

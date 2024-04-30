@@ -1,4 +1,6 @@
-# RFM model-based Customer Segmentation using Clustering and Classification
+# RFM model-based Customer Segmentation using Clustering, Classification and BTYD Models
+
+In this Project, we try to apply various Machine Learning and Statistical Models to segment and analyze Customers. Furthermore, we create Visualizations for the Data and use different techniques to improve the Models used.
 
 ### Dataset
 
@@ -7,7 +9,7 @@ Online Retail I and II are Datasets containing all the transactions occurring fo
 * <https://doi.org/10.24432/C5BW33>
 * <https://doi.org/10.24432/C5CG6D>
 
-### Contributors
+### Team Members
 
 |Rajat Paliwal|Saurabh Saini|Swastik Kulshreshtha|Utkarsh Tailor|
 |:---:|:---:|:---:|:---:|
